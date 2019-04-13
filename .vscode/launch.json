@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - stringMatching",
+            "request": "launch",
+            "mainClass": "stringMatching"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringMatching",
+            "request": "launch",
+            "mainClass": "StringMatching"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rabin_Karp",
+            "request": "launch",
+            "mainClass": "Rabin_Karp"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Rod_cutting",
             "request": "launch",
             "mainClass": "Rod_cutting"
